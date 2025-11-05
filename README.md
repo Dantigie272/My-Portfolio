@@ -60,7 +60,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>Liverpool, Merseyside, UK</td>
+      <td>Liverpool, UK</td>
     </tr>
     <tr>
       <td>⬇️</td>
