@@ -6,7 +6,7 @@ Hello! My name is Daniel Koroma and I'm a data analyst, educator and consultant 
 <!-- Mention your top/relevant skills here, that's your core and soft skills -->
 ## WHAT I DO
 
-"As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts."
+"As the Chief Analyst of Realini Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts."
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
