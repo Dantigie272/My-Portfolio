@@ -56,11 +56,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(44) 7405-823-452</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Liverpool, Merseyside, UK</td>
     </tr>
     <tr>
       <td>⬇️</td>
