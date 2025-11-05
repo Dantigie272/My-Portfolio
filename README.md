@@ -42,7 +42,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the full report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -52,7 +52,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:anietieetuk@gmail.com">info@dantigie.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
